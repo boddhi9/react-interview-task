@@ -1,0 +1,5 @@
+body {
+  font-size: calc(1em * 1.15);
+  line-height: calc(1em * 1.5);
+  text-align: center;
+}
